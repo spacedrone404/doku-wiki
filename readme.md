@@ -21,7 +21,7 @@ Windows users:
 Linux users:
 1] Just start Apache with following configuration
 
-
+```
 Listen 8800
 ServerName microapache
 ServerRoot .
@@ -62,6 +62,7 @@ DirectoryIndex index.html index.php
 <Directory .>
     AllowOverride None
 </Directory>
+```
 
 
 2] And head on to http://localhost:8800 
