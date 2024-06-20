@@ -1,6 +1,7 @@
-﻿Search the library registry by specified criter
- ia.
+﻿Search the library registry by specified criteria.
+ 
 Search for letters, numbers, phrases, whatever.
+
 Tested in > 8000 lines of text environment.
 Powered by DokuWiki:
 https://www.dokuwiki.org/dokuwiki 
