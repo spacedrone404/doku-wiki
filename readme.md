@@ -7,8 +7,11 @@ Powered by DokuWiki:
 https://www.dokuwiki.org/dokuwiki 
 
 Minimal system requirements: i3 / 2Gb RAM
+
 Recommended system requirements: i5 / 4Gb RAM + SSD
+
 Operating system: Windows 7 / Linux
+
 Browser: Firefox 78 ESR and up
 
 Technology stack: Apache, Html, Css, Markdown, Php, Js, Ajax, Batch, Power shell. 
@@ -16,10 +19,13 @@ Technology stack: Apache, Html, Css, Markdown, Php, Js, Ajax, Batch, Power shell
 <img src="https://cloud.disroot.org/s/aqGtJEsGsykqZGK/download/doku-wiki-searcher.png" width="512px"/>
 
 Windows users:
+
 1] !run.cmd is only for Windows
+
 2] To work out-of-the-box software should be placed into C:\dokuwiki\
 
 Linux users:
+
 1] Just start Apache with following configuration
 
 ```
