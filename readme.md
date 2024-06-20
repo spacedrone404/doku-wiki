@@ -1,4 +1,5 @@
-﻿Search the library registry by specified criteria.
+﻿Search the library registry by specified criter
+ ia.
 Search for letters, numbers, phrases, whatever.
 Tested in > 8000 lines of text environment.
 Powered by DokuWiki:
@@ -11,7 +12,7 @@ Browser: Firefox 78 ESR and up
 
 Technology stack: Apache, Html, Css, Markdown, Php, Js, Ajax, Batch, Power shell. 
 
-<img src="https://cloud.disroot.org/s/aqGtJEsGsykqZGK/download/doku-wiki-searcher.png" width="224"/>
+<img src="https://cloud.disroot.org/s/aqGtJEsGsykqZGK/download/doku-wiki-searcher.png" width="512px"/>
 
 Windows users:
 1] !run.cmd is only for Windows
