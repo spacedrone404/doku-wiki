@@ -1,0 +1,27 @@
+===== ¶ FAST SEARCH CATALOG =====
+
+Search the library registry by specified criteria.
+\\
+**To start your search, select the letter you want to search for or use [[big-table|[very loooooooong table]]] to test things out.** 
+
+----
+
+**►[[a|A]] | [[b|B]] | [[c|C]] | [[d|D]] | [[e|E]] | [[f|F]] | [[g|G]] | [[h|H]] | [[i|I]] | [[j|J]] | [[k|K]] | [[l|L]] | [[m|M]] | [[n|N]] | [[o|O]] | [[p|P]] | [[q|Q]] | [[r|R]] | [[s|S]] | [[t|T]] | [[u|U]] | [[v|V]] | [[w|W]] | [[x|X]] | [[y|Y]] | [[z|Z]] | [[numbers|Numbers]] | [[misc|Misc]]◄**
+
+----
+
+  * **[[about-service|[About service]]]** / for user
+
+  * **[[system-tune|[Tuning system performance]]]** / for admin
+ 
+  * **[[wiki:syntax|[Syntax Markdown/DokuWiki]]]** / for admin
+ 
+  * **[[big-table|[Very loooooooong table]]]** > 8000 positions /  for admin
+
+
+
+----
+
+**FAST SEARCH LIBRARY v1.4f+ [2023-01-18]**
+
+

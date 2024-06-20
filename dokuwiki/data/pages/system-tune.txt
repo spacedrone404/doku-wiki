@@ -1,0 +1,42 @@
+**[[:catalog|► MAIN PAGE]]**
+----
+
+===== APACHE =====
+
+
+<code>
+start "Apache server" /high /B "C:\dokuwiki\server\mapache.exe"
+</code>
+
+===== HTTPD.CONF =====
+
+<code>
+<IfModule mpm_winnt_module>
+    ThreadStackSize 8388608
+    ThreadsPerChild 64
+</IfModule>
+</code>
+
+===== PHP.INI =====
+
+<code>
+max_execution_time = 512
+max_input_time=214
+memory_limit = 888M
+post_max_size = 88M
+upload_max_filesize = 18M
+zend_extension=opcache
+</code>
+
+===== CACHE RESET =====
+
+
+
+<code>
+dokuwiki/conf/local.php
+</code>
+
+
+----
+
+**[[:catalog|► MAIN PAGE]]**

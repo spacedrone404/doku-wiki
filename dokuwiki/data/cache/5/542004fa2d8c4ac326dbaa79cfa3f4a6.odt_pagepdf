@@ -1,0 +1,23 @@
+
+<h1 class="sectionedit1" id="an_error_occured_during_conversion_of_the_odt_document">An error occured during conversion of the ODT document:</h1>
+<div class="level1">
+
+<p>
+Executed command line:
+</p>
+<pre class="code">libreoffice --headless --convert-to pdf --outdir C:/dokuwiki/dokuwiki/data/tmp/odt/каталог C:/dokuwiki/dokuwiki/data/tmp/odt/каталог/convert.odt 2&gt;&amp;1</pre>
+
+<p>
+Error code: 1
+</p>
+
+<p>
+Error message:
+</p>
+<pre class="code">&amp;#34;libreoffice&amp;#34; �� ���� ����७��� ��� ���譥���������, �ᯮ��塞�� �ணࠬ��� ��� ������ 䠩���.</pre>
+
+<p>
+<a href="/doku.php?id=%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3" class="wikilink1" title="каталог" data-wiki-id="каталог">Back to previous page</a>
+</p>
+
+</div>

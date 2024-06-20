@@ -1,0 +1,12 @@
+a:2:{s:7:"current";a:10:{s:4:"date";a:2:{s:7:"created";i:1663313552;s:8:"modified";i:1663840571;}s:7:"creator";s:5:"admin";s:4:"user";s:4:"root";s:11:"last_change";a:8:{s:4:"date";i:1663840571;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:2:"т";s:4:"user";s:4:"root";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:8;}s:11:"contributor";a:1:{s:4:"root";s:5:"admin";}s:8:"relation";a:2:{s:10:"references";a:33:{s:14:"каталог";b:1;s:2:"а";b:1;s:2:"б";b:1;s:2:"в";b:1;s:2:"г";b:1;s:2:"д";b:1;s:2:"е";b:1;s:2:"ё";b:1;s:2:"ж";b:1;s:2:"з";b:1;s:2:"и";b:1;s:2:"й";b:1;s:2:"к";b:1;s:2:"л";b:1;s:2:"м";b:1;s:2:"н";b:1;s:2:"о";b:1;s:2:"п";b:1;s:2:"р";b:1;s:2:"с";b:1;s:2:"т";b:1;s:2:"у";b:1;s:2:"ф";b:1;s:2:"х";b:1;s:2:"ц";b:1;s:2:"ч";b:1;s:2:"ш";b:1;s:2:"щ";b:1;s:2:"э";b:1;s:2:"ю";b:1;s:2:"я";b:1;s:16:"циферные";b:1;s:12:"прочие";b:1;}s:10:"firstimage";s:0:"";}s:5:"title";s:6:"► Т";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:6:"►_т";s:5:"title";s:6:"► Т";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:352:"► В НАЧАЛО
+
+----------
+
+А | Б | В | Г | Д | Е | Ё | Ж | З | И | Й | К | Л | М | Н | О | П | Р | С | Т | У | Ф | Х | Ц | Ч | Ш | Щ | Э | Ю | Я | Цифры | Прочие
+
+----------
+
+► Т
+
+
+ №    Автор   Наименование  УДК  ИНВ  Кому выдано / Телефон  Заметки   1";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:12:"dtable_pages";a:0:{}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1663313552;s:8:"modified";i:1663840571;}s:7:"creator";s:5:"admin";s:4:"user";s:4:"root";s:11:"last_change";a:8:{s:4:"date";i:1663840571;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:2:"т";s:4:"user";s:4:"root";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:8;}s:11:"contributor";a:1:{s:4:"root";s:5:"admin";}}}

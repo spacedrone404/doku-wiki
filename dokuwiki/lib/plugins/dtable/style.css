@@ -1,0 +1,70 @@
+/* Generic context menu styles */
+#dtable_context_menu {
+	position: absolute;
+	/*For funthure options*/
+	/*width: 340px;*/
+	width: 140px;
+	z-index: 99999;
+	border: solid 1px #CCC;
+	background: #EEE;
+	padding: 0px;
+	margin: 0px;
+	display: none;
+}
+
+#dtable_context_menu li {
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+#dtable_context_menu a {
+	color: #2B73B7;
+	text-decoration: none;
+	display: block;
+	line-height: 20px;
+	height: 20px;
+	background-position: 6px center;
+	background-repeat: no-repeat;
+	outline: none;
+	padding: 1px 5px;
+	padding-left: 28px;
+}
+
+#dtable_context_menu a:hover {
+	text-decoration: underline;
+}
+
+#dtable_context_menu li.separator {
+	border-top: solid 1px #CCC;
+}
+
+/*
+	adding Icons
+	
+	You can add icons to the context menu by adding
+	classes to the respective li element(s)
+*/
+
+#dtable_context_menu li.edit a { background-image: url(images/edit.png); }
+#dtable_context_menu li.remove a { background-image: url(images/remove.png); }
+#dtable_context_menu li.insert_after a { background-image: url(images/insert_after.png); }
+#dtable_context_menu li.insert_before a { background-image: url(images/insert_before.png); }
+
+
+.dtable .panlock { background-image: url("images/panlock.png"); }
+.dtable .panunlock { background-image: url("images/panunlock.png"); }
+
+.dtable .panlock span
+{
+    font-weight:bold;
+}
+
+.dtable textarea.tableheader_open {
+	background-color: #CCCCCC;
+}
+
+.dtable textarea {
+	margin: 0;
+	padding:0;
+}

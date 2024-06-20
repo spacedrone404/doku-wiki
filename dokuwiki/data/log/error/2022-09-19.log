@@ -1,0 +1,9 @@
+2022-09-19 07:09:52	C:\dokuwiki\dokuwiki\lib\plugins\odt\ODT\css\cssdocument.php(376)	dokuwiki\Exception\FatalException: Maximum execution time of 224 seconds exceeded
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-09-19 07:14:16	C:\dokuwiki\dokuwiki\lib\plugins\odt\ODT\css\cssdocument.php(375)	dokuwiki\Exception\FatalException: Maximum execution time of 224 seconds exceeded
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}
+2022-09-19 07:30:19	C:\dokuwiki\dokuwiki\lib\plugins\odt\ODT\css\cssdocument.php(375)	dokuwiki\Exception\FatalException: Maximum execution time of 888 seconds exceeded
+  #0 [internal function]: dokuwiki\ErrorHandler::fatalShutdown()
+  #1 {main}

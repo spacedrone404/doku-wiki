@@ -1,0 +1,19 @@
+**[[:catalog|► MAIN PAGE]]**
+
+
+----
+===== ABOUT SERVICE =====
+
+Search and sort information by criteria.
+Search for letters, numbers, phrases, whatever.
+\\
+Tested in > 8000 lines of text environment.
+
+\\
+Technology stack: **apache, html, css, markdown, php, js, ajax, batch, power shell**.
+
+\\
+
+----
+
+**[[:catalog|► MAIN PAGE]]**

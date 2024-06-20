@@ -1,0 +1,14 @@
+div.dokuwiki input.searchtable {
+	background:url("images/inputshadow.png") repeat-x scroll center top #FFFFFF;
+}
+
+div.dokuwiki input.searchtable {
+	background-color: #FFFFFF;
+	border:2px solid red;
+	color:#000000;
+	display:inline;
+	font-size:100%;
+	margin:1px;
+	padding:0.4em 0.6em;
+	vertical-align:middle;
+}
