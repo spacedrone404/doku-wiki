@@ -11,6 +11,8 @@ Browser: Firefox 78 ESR and up
 
 Technology stack: Apache, Html, Css, Markdown, Php, Js, Ajax, Batch, Power shell. 
 
+![DokuWiki Searcher](https://cloud.disroot.org/s/aqGtJEsGsykqZGK/download/doku-wiki-searcher.png)
+
 Windows users:
 1] !run.cmd is only for Windows
 2] To work out-of-the-box software should be placed into C:\dokuwiki\
